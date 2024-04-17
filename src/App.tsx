@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://apollo.io" target="_blank">
+        <a href="https://www.apollo.io/tech-blog" target="_blank">
           <img src={apolloLogo} className="logo react" alt="React logo" />
         </a>
       </div>
