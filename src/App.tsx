@@ -8,7 +8,7 @@ function App() {
       <a href="https://www.apollo.io/tech-blog" target="_blank">
         <img
           src={apolloLogo}
-          className={classnames(styles.logo, styles.react)}
+          className={classnames(styles.logo)}
           alt="React logo"
         />
       </a>
