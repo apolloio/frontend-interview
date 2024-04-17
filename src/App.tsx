@@ -13,6 +13,7 @@ function App() {
         />
       </a>
       <h1>Thanks for interviewing with Apollo!</h1>
+      &#8249;Your code here&#8250;
     </div>
   );
 }
