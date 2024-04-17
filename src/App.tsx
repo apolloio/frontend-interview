@@ -9,7 +9,7 @@ function App() {
         <img
           src={apolloLogo}
           className={classnames(styles.logo)}
-          alt="React logo"
+          alt="Apollo logo"
         />
       </a>
       <h1>Thanks for interviewing with Apollo!</h1>
