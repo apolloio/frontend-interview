@@ -14,6 +14,6 @@
 }
 
 .logo:hover {
-  filter: drop-shadow(0 0 2em #fecf40);
+  filter: drop-shadow(0 0 2em #EBF212);
   transform: scale(0.98);
 }
